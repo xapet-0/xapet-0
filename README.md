@@ -1,9 +1,9 @@
 <div align="center">
   
-  <h1>こんにちは , I'm xapet ⚡</h1>
+  <h1>こんにちは, I'm xapet ⚡</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F48FB1&center=true&vCenter=true&width=435&lines=Cyber+Security+Student+🌸;Starting+from+Zero...;C+%7C+Python+%7C+Networks;Linux+User+%7C+Vim&random=false" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F48FB1&center=true&vCenter=true&width=435&lines=Cyber+Security+Student+🌸;Building+from+Ground+Up...;C+%7C+Python+%7C+Networks;Linux+User+%7C+Vim&random=false" alt="Typing SVG" />
   </a>
 </div>
 
@@ -20,10 +20,10 @@
 #### 📝 About Me
 > *"A journey of a thousand miles begins with a single step."*
 
-I am a Cyber Security student at the very beginning of my path.
-- 🧠 **My Goal:** To build a strong foundation in Computer Science from scratch.
-- 📚 **My Status:** Just started learning **C Programming** and **Linux**.
-- 🔨 **Current Focus:** Building discipline and learning the basics correctly.
+I am a Cyber Security student passionate about advancing my knowledge in Computer Science.
+- 🧠 **My Goal:** To establish a solid foundation in Computer Science.
+- 📚 **My Status:** Currently focused on **C Programming** and **Linux**.
+- 🔨 **Current Focus:** Building discipline and mastering the fundamentals.
 
 <br/>
 
