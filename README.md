@@ -35,8 +35,8 @@
 <br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=xapet-0&theme=transparent&hide_border=true&title_color=70c8ff&text_color=8b949e&ring=70c8ff&fire=70c8ff&currStreakLabel=70c8ff" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xapet-0&layout=compact&theme=transparent&hide_border=true&title_color=70c8ff&text_color=8b949e" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xapet-0&show_icons=true&theme=transparent&hide_border=true&title_color=70c8ff&icon_color=70c8ff&text_color=8b949e&hide_rank=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xapet-0&layout=compact&theme=transparent&hide_border=true&title_color=70c8ff&text_color=8b949e" width="48%" />
 </p>
 
 <br>
