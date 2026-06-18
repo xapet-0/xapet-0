@@ -1,46 +1,43 @@
+# ⚡ xapet-0
+### 🌐 사이버 보안 | サイバーセキュリティ | Cyber Security & Development
+
 <div align="center">
-  
-  <h1>こんにちは, I'm xapet ⚡</h1>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F48FB1&center=true&vCenter=true&width=435&lines=Cyber+Security+Student+🌸;Building+from+Ground+Up...;C+%7C+Python+%7C+Networks;Linux+User+%7C+Vim&random=false" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=xapet-0&fontSize=80&fontAlignY=35&desc=Security%20Researcher%20/%20Developer&descAlignY=55&descAlign=50" />
 </div>
 
-<hr />
+```text
+> whoami
+[+] Name: Xapet
+[+] Role: Cyber Security Researcher / Developer
+[+] Base: Remote
+[+] Interests: Penetration Testing, Malware Analysis, Web Development, Automation
+```
+
+### 💻 技術スタック (Tech Stack)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Learning-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Learning-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Using-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<br/>
+### 📊 統計 (GitHub Stats)
 
-#### 📝 About Me
-> *"A journey of a thousand miles begins with a single step."*
-
-I am a Cyber Security student passionate about advancing my knowledge in Computer Science.
-- 🧠 **My Goal:** To establish a solid foundation in Computer Science.
-- 📚 **My Status:** Currently focused on **C Programming** and **Linux**.
-- 🔨 **Current Focus:** Building discipline and mastering the fundamentals.
-
-<br/>
-
-- 🛡️ **My Environment:**
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square" />
-  <img src="https://img.shields.io/badge/Vim-F48FB1?logo=vim&logoColor=white&style=flat-square" />
-
-<br/>
-
-<hr />
-
-<div align="center">
-  <h3>📊 My GitHub Stats</h3>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=xapet-0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="150" />
-  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xapet-0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xapet-0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xapet-0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</p>
+
+### 🎯 현재 목표 (Current Goals)
+- [ ] Deepen knowledge in Reverse Engineering (リバースエンジニアリング)
+- [ ] Contribute to Open Source Security Tools
+- [ ] Master advanced web exploitation techniques
+
+<hr>
+<div align="center">
+  <i>"System compromised."</i>
 </div>
