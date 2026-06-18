@@ -2,42 +2,44 @@
   <img src="https://cdn.dribbble.com/users/2495095/screenshots/6022014/media/bde6ebc855e312547d5f791f427de779.gif">
 </p>
 
-## root:~$ whoami
-> Cyber Security Researcher \
-> Exploit Developer \
-> "System compromised. Access granted." 
+<h2 align="center"> root:~$ whoami </h2>
+<div align="center">
+  > Cyber Security Researcher <br>
+  > Exploring Reverse Engineering & Malware Analysis <br>
+  > <i>사이버 보안 연구원 — Исследователь кибербезопасности</i>
+</div>
+
+<br>
 
 <pre>
 
-┌──┤ WHOAMI ├───────────────────────▰▰▰
+┌──┤ WHOAMI / КТО Я ├───────────────────────▰▰▰
 │
 ├─▣ Cyber Security Researcher
-├─▣ Exploit Developer & Red Teamer
-├─▣ Focused on Reverse Engineering
+├─▣ Exploring Reverse Engineering & Malware
+├─▣ Building Security Tools
 ├─▣ Remote (Cyberspace)
 │
-└───────────────────────────────────▰▰▰
+└───────────────────────────────────────────▰▰▰
 
-┌──┤ SOCIAL ├───────────────────────▰▰▰
+┌──┤ SOCIAL / СВЯЗЬ ├───────────────────────▰▰▰
 │
 ├─▣ <a href="https://github.com/xapet-0">GitHub</a>
 ├─▣ <a href="#">Twitter</a>
 ├─▣ <a href="#">LinkedIn</a>
 ├─▣ <a href="#">Discord: xapet#0000</a>
 │
-└───────────────────────────────────▰▰▰
+└───────────────────────────────────────────▰▰▰
 
-┌──┤ SKILLS ├───────────────────────▰▰▰
+┌──┤ SKILLS / НАВЫКИ ├──────────────────────▰▰▰
 │
-├─▣ Python
-├─▣ C / C++
-├─▣ Assembly
-├─▣ Bash / Shell
-├─▣ Linux Kernel
-├─▣ Penetration Testing
-├─▣ Cryptography
+├─▣ Python (Automation & Tooling)
+├─▣ C / C++ (Learning Internals)
+├─▣ Bash / Shell Scripting
+├─▣ Linux Environments
+├─▣ CTFs & Applied Cryptography
 │
-└───────────────────────────────────▰▰▰
+└───────────────────────────────────────────▰▰▰
 
 </pre>
 
