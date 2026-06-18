@@ -34,6 +34,12 @@
 
 <br>
 
+<p align="center">
+  <img src="https://metrics.lecoq.io/xapet-0?template=terminal" width="100%" />
+</p>
+
+<br>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=xapet-0&color=000000&style=for-the-badge&label=views" />
 </div>
