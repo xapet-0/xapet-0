@@ -35,8 +35,8 @@
 <br>
 
 <p align="center">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=xapet-0&show_icons=true&theme=transparent&hide_border=true&title_color=70c8ff&icon_color=70c8ff&text_color=8b949e" width="48%" />
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xapet-0&layout=compact&theme=transparent&hide_border=true&title_color=70c8ff&text_color=8b949e" width="48%" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=xapet-0&count_private=true&show_icons=true&theme=transparent&hide_border=true&title_color=70c8ff&icon_color=70c8ff&text_color=8b949e" width="48%" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xapet-0&count_private=true&layout=compact&theme=transparent&hide_border=true&title_color=70c8ff&text_color=8b949e" width="48%" />
 </p>
 
 <br>
