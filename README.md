@@ -4,8 +4,8 @@
 
 <h2 align="center"> root:~$ whoami </h2>
 <div align="center">
-  > Cyber Security Researcher <br>
-  > Exploring Reverse Engineering & Malware Analysis <br>
+  > Cyber Security Enthusiast <br>
+  > Learning Python & Reverse Engineering <br>
   > <i>사이버 보안 연구원 — Исследователь кибербезопасности</i>
 </div>
 
@@ -13,10 +13,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C_/_C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
 <br>
@@ -24,9 +22,9 @@
 <pre>
 ┌──┤ КТО Я (WHOAMI) ├───────────────────────▰▰▰
 │
-├─▣ Cyber Security Researcher
-├─▣ Exploring C/C++ Internals & Malware
-├─▣ Building Security Tools
+├─▣ Aspiring Security Researcher
+├─▣ Exploring C/C++ & Linux Internals
+├─▣ Learning Malware Analysis
 ├─▣ Remote (Cyberspace)
 │
 └───────────────────────────────────────────▰▰▰
