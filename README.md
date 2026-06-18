@@ -34,12 +34,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xapet-0&bg_color=00000000&color=70c8ff&line=70c8ff&point=ffffff&hide_border=true" width="100%" />
-</p>
-
-<br>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=xapet-0&color=000000&style=for-the-badge&label=views" />
 </div>
