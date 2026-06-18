@@ -11,54 +11,34 @@
 
 <br>
 
-<pre>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C_/_C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-┌──┤ WHOAMI / КТО Я ├───────────────────────▰▰▰
+<br>
+
+<pre>
+┌──┤ КТО Я (WHOAMI) ├───────────────────────▰▰▰
 │
 ├─▣ Cyber Security Researcher
-├─▣ Exploring Reverse Engineering & Malware
+├─▣ Exploring C/C++ Internals & Malware
 ├─▣ Building Security Tools
 ├─▣ Remote (Cyberspace)
 │
 └───────────────────────────────────────────▰▰▰
-
-┌──┤ SOCIAL / СВЯЗЬ ├───────────────────────▰▰▰
-│
-├─▣ <a href="https://github.com/xapet-0">GitHub</a>
-├─▣ <a href="#">Twitter</a>
-├─▣ <a href="#">LinkedIn</a>
-├─▣ <a href="#">Discord: xapet#0000</a>
-│
-└───────────────────────────────────────────▰▰▰
-
-┌──┤ SKILLS / НАВЫКИ ├──────────────────────▰▰▰
-│
-├─▣ Python (Automation & Tooling)
-├─▣ C / C++ (Learning Internals)
-├─▣ Bash / Shell Scripting
-├─▣ Linux Environments
-├─▣ CTFs & Applied Cryptography
-│
-└───────────────────────────────────────────▰▰▰
-
 </pre>
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Ask%20me%20anything-3b5998?style=flat-square" /></a> *
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white" /></a> *
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white" /></a> *
-  <a href="#"><img src="https://img.shields.io/badge/Discord-5865f2?style=flat-square&logo=discord&logoColor=white" /></a>
-</p>
-
-<hr>
+<br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xapet-0&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xapet-0&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xapet-0&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=8b949e" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xapet-0&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xapet-0&color=blueviolet&style=flat-square&label=visitors" />
-  <img src="https://img.shields.io/github/followers/xapet-0?color=ffffff&style=flat-square&label=Followers&logoColor=black&labelColor=2d2d2d" />
-  <img src="https://img.shields.io/github/stars/xapet-0?color=ffffff&style=flat-square&label=Stars&logoColor=black&labelColor=2d2d2d" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=xapet-0&color=000000&style=flat-square&label=views" />
+</div>
