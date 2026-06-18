@@ -1,33 +1,36 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&section=header&text=Xapet&fontSize=60&fontColor=70c8ff&animation=fadeIn" />
-</div>
+<p align="center">  
+  <img src="https://cdn.dribbble.com/users/2495095/screenshots/6022014/media/bde6ebc855e312547d5f791f427de779.gif" width="100%">
+</p>
 
+<h2 align="center"> root:~$ whoami </h2>
 <div align="center">
-  <h3> Aspiring Security Researcher </h3>
-  <p><i>Исследователь кибербезопасности — サイバーセキュリティ</i></p>
+  > Cyber Security Enthusiast <br>
+  > Exploring Reverse Engineering & Malware Analysis <br>
+  > <i>Студент по кибербезопасности — サイバーセキュリティ</i>
 </div>
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=70c8ff" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=70c8ff" />
-  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=70c8ff" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=70c8ff" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/C_/_C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" />
 </p>
 
 <br>
 
-<pre>
-┌──┤ КТО Я (WHOAMI) ├───────────────────────▰▰▰
+```text
+┌──┤ КТО Я (WHOAMI) ├──────────────────────────────▰▰▰
 │
 ├─▣ Aspiring Security Researcher
 ├─▣ Exploring C/C++ & Linux Internals
 ├─▣ Learning Malware Analysis
 ├─▣ Remote (Cyberspace)
 │
-└───────────────────────────────────────────▰▰▰
-</pre>
+└──────────────────────────────────────────────────▰▰▰
+```
 
 <br>
 
