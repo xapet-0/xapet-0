@@ -4,7 +4,7 @@
 
 <h2 align="center"> root:~$ whoami </h2>
 <div align="center">
-  > Cyber Security Enthusiast <br>
+  > Cyber Security Researcher <br>
   > Exploring Reverse Engineering & Malware Analysis <br>
   > <i>Студент по кибербезопасности — サイバーセキュリティ</i>
 </div>
@@ -22,14 +22,14 @@
 <br>
 
 ```text
-┌──┤ КТО Я (WHOAMI) ├──────────────────────────────▰▰▰
+┌──┤ КТО Я (WHOAMI) ├───────────────────────▰▰▰
 │
-├─▣ Aspiring Security Researcher
-├─▣ Exploring C/C++ & Linux Internals
-├─▣ Learning Malware Analysis
+├─▣ Cyber Security Researcher
+├─▣ Exploring C/C++ Internals & Malware
+├─▣ Building Security Tools
 ├─▣ Remote (Cyberspace)
 │
-└──────────────────────────────────────────────────▰▰▰
+└───────────────────────────────────────────▰▰▰
 ```
 
 <br>
